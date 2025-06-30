@@ -8,11 +8,12 @@ status: budding
 
 ## Upcoming conferences
 
-- Elm Camp 2025 - TBC!
+- Elm Camp 2026 - TBC!
 
 ## Past conferences
 
-- 🇬🇧 [Elm Camp 2024](https://elm.camp) - England - June 18-21
+- 🇺🇸 [Elm Camp 2025](https://elm.camp) - Michigan - June 24-27
+- 🇬🇧 [Elm Camp 2024](https://elm.camp/24-england) - England - June 18-21
 - 🇩🇰 [Elm Camp 2023](https://elm.camp/23-denmark/) - Denmark - June 28-30
 - 🇺🇸 [Elm in the Spring 2020](https://elminthespring.org/) (Covid Postponed)
 - 🇺🇸 [Elm Conf 2020](https://2020.elm-conf.com/) - (Covid Cancelled)
